@@ -1,0 +1,21 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  font-family: Georgia, serif;
+  background-color: #F5F0E9;
+  color: #382719;
+}
+
+#root {
+  min-height: 100vh;
+}
